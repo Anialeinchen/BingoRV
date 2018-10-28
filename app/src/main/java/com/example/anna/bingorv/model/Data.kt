@@ -1,6 +1,7 @@
-package com.example.anna.bingorv
+package com.example.anna.bingorv.model
 
 import android.content.Context
+import com.example.anna.bingorv.R
 
 class Data(context: Context) {
     var data: List<String> = context

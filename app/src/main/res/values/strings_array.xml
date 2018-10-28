@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bingo_array">
+        <item>Rides a motorcycle</item>
+        <item>Has a tiger cat</item>
+        <item>Likes very spicy food</item>
+        <item>Tried bungee jumping</item>
+        <item>Still eats peanut butter</item>
+        <item>Played in a band</item>
+        <item>Cannot swim</item>
+        <item>Is a vegetarian</item>
+        <item>Grows herbs</item>
+        <item>Snores</item>
+        <item>Is a neat freak</item>
+        <item>Plays bridge</item>
+        <item>Refuses to play board games</item>
+        <item>Is afraid of spiders</item>
+        <item>Loves coffee houses</item>
+    </string-array>
+</resources>

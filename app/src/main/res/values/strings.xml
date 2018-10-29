@@ -3,4 +3,5 @@
     <string name="dummy_data_1">Fowler</string>
     <string name="dummy_data_2">Beck</string>
     <string name="dummy_data_3">Evans</string>
+    <string name="done">found</string>
 </resources>

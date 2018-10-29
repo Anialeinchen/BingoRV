@@ -1,4 +1,9 @@
 package com.example.anna.bingorv.model
 
-class BingoRepository {
+class BingoRepository(private val stringSource: StringSource) {
+
+    fun getStringSource():List<String>{
+        return stringSource.getBingoItems()
+    }
+
 }
